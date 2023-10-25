@@ -29,7 +29,7 @@ The List
 - [APL] Iverson, KE. Elementary Functions: An Algorithmic Treatment. Science Research Associates, Inc; 1966. [PDF](https://www.jsoftware.com/papers/Elementary_Functions.pdf).
 - [J] Iverson, KE. Exploring Math. J Software; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
 - [APL] Iverson, KE. Mathematics and Programming. Unknown; 1986.
-- [J] Iverson, KE. Math for the Layman. Jsoftware; Date unknown. [Zipped html](http://www.jsoftware.com/books/pdf/mftl.zip).
+- [J] Iverson, KE. Math for the Layman. Jsoftware; Date unknown. [zipped HTML](http://www.jsoftware.com/books/pdf/mftl.zip).
 - [APL] LeCuyer, EJ. Introduction to College Mathematics with A Programming Language. Springer-Verlag; 1961. [PDF](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL).
 - [APL] Musgrave, GL, Ramsey, JB. APL-STAT: A Do-It-Yourself Guide to Computational Statistics Using APL. Lifetime Learning Publications; 1981. [PDF](https://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf).
 - [J] Peelle, HA. Mathematical Computing in J. Research Studies; 2005. [Google Books](https://www.google.com/books/edition/Mathematical_Computing_in_J_Introduction/5tWzAAAACAAJ?hl=en).
