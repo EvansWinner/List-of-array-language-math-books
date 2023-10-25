@@ -1,10 +1,10 @@
-About
-=====
+List of Mathematics Books Using Array Languages
+===============================================
 
-This is a list of books that use array programming languages like APL or J to teach or explain subjects in mathematics. I compiled it because I wanted to.If I may editorialize, I think there should be more of these. I think such was much of Ken Iverson's purpose.
+This is a list of books that use array programming languages like APL or J to teach or explain subjects in mathematics. I compiled it because I wanted to. If I may editorialize, I think there should be more of these. I think such was much of Ken Iverson's purpose.
 
 It is based on a Reddit [post](https://www.reddit.com/r/apljk/comments/17b3lig/apl_math_books/) I made in October, 2023. I have added books that use the J language and would for any other array language if I knew of any such books. 
-I believe all of these are out of print. Where there is PDF available online that appears to me to be legitimage (not a copyright infringement) I have linked to that. Additionally, where possible, I have linked to the Google Books page on the book, which in turn often links to sellers like Amazon.
+I believe all of these are out of print. Where there is a PDF available online that appears to me to be legitimate (not a copyright infringement) I have linked to that. Additionally, where possible, I have linked to the Google Books page on the book, which in turn often links to sellers like Amazon.
 
 The references attempt to be in [AMA](https://owl.purdue.edu/owl/research_and_citation/ama_style/index.html) style, in alphabetic order by author, and then by title under a given author, with the additional prefix listing what language is used.
 
@@ -27,7 +27,7 @@ The List
 - [APL] Iverson, KE. Elementary Algebra. IBM Corporation; 1971. [PDF](https://www.softwarepreservation.org/projects/apl/Papers/ElementaryAlgebra).
 - [APL] Iverson, KE. Elementary Analysis. APL Press; 1976. [Google Books](https://www.google.com/books/edition/Elementary_Analysis/WvcpAQAAMAAJ?hl=en&gbpv=0&bsq=Iverson,%20KE.%20Elementary%20Analysis.).
 - [APL] Iverson, KE. Elementary Functions: An Algorithmic Treatment. Science Research Associates, Inc; 1966. [PDF](https://www.jsoftware.com/papers/Elementary_Functions.pdf).
-- [J] Iverson, KE. Exploring Math. Jsoftware; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
+- [J] Iverson, KE. Exploring Math. J Software; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
 - [APL] Iverson, KE. Mathematics and Programming. Unknown; 1986.
 - [J] Iverson, KE. Math for the Layman. Jsoftware; Date unknown. [Zipped html](http://www.jsoftware.com/books/pdf/mftl.zip).
 - [APL] LeCuyer, EJ. Introduction to College Mathematics with A Programming Language. Springer-Verlag; 1961. [PDF](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL).
