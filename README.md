@@ -21,7 +21,7 @@ The List
 - [APL] Anscobm, FJ. Computing in Statistical Science through APL. APL Press; 1981. [Google Books](https://www.google.com/books/edition/Computing_in_Statistical_Science_through/FzXVBwAAQBAJ?hl=en&gbpv=0).
 - [APL] Helzer, G. Applied Linear Algebra with APL. Springer New York; 1983. [Google Books](https://www.google.com/books/edition/Applied_Linear_Algebra_with_APL/EPkZAQAAIAAJ?hl=en&gbpv=0&bsq=Helzer,%20G.%20Applied%20Linear%20Algebra%20with%20APL.).
 - [APL] Iverson, KE. Algebra: An Algorithmic Treatment. APL Press; 1977. [PDF](http://www.jsoftware.com/books/pdf/algebra.pdf). [Google Books](https://www.google.com/books/edition/Algebra/rVorAAAAYAAJ?hl=en&gbpv=0&bsq=Iverson,%20KE.%20Algebra:%20An%20Algorithmic%20Treatment.)
-- [J] Iverson, KE. Arithmetic. J Software; Date unknown. [PDF](http://www.jsoftware.com/books/pdf/arithmetic.pdf). 
+- ![J](https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png | width=16) Iverson, KE. Arithmetic. J Software; Date unknown. [PDF](http://www.jsoftware.com/books/pdf/arithmetic.pdf). 
 - [APL] Iverson, KE. Applied Mathematics for Programmers. Pub unknown; 1984.
 - [J] Iverson, KE. Calculus. Iverson Software, Inc.; 1993. [PDF](http://www.jsoftware.com/books/pdf/calculus.pdf). [Google Books](https://www.google.com/books/edition/Calculus/TfylPwAACAAJ?hl=en).
 - [J] Iverson, KE. Concrete Math Companion. Pub unknown; 1995. [PDF](http://www.jsoftware.com/books/pdf/cmc.pdf). [Google Books](https://www.google.com/books/edition/Concrete_Math_Companion/xKfiAAAACAAJ?hl=en).
