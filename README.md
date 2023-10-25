@@ -5,7 +5,7 @@ This is a list of books that use array programming languages like APL or J to te
 
 It is based on a Reddit [post](https://www.reddit.com/r/apljk/comments/17b3lig/apl_math_books/) I made in October 2023. I have added books that use the J language and would for any other array language if I knew of any such books.
 
-I believe all of these are out of print. Where there is a PDF available online that appears to me to be legitimate (not a copyright infringement) I have linked to that. Additionally, where possible, I have linked to the Google Books page on the book, which in turn often links to sellers like Amazon.
+I believe all of these are out of print. Where there is a PDF available online that appears to me to be legitimate (not a copyright infringement) I have linked to that. Additionally, where possible, I have linked to the Google Books page on the book, which in turn often links to sellers like Amazon. Please note that I have not personally seen all of these, so if you know that something does not belong on this list, please let me know.
 
 The references attempt to be *approximately* in [AMA](https://owl.purdue.edu/owl/research_and_citation/ama_style/index.html) style, in alphabetic order by author, and then by title under a given author, with the additional prefix listing what language is used.
 
