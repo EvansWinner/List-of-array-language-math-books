@@ -3,14 +3,15 @@ List of Mathematics Books Using Array Languages
 
 This is a list of books that use array programming languages like APL or J to teach or explain subjects in mathematics. I compiled it because I wanted to. If I may editorialize, I think there should be more of these. I think such was much of Ken Iverson's purpose.
 
-It is based on a Reddit [post](https://www.reddit.com/r/apljk/comments/17b3lig/apl_math_books/) I made in October, 2023. I have added books that use the J language and would for any other array language if I knew of any such books. 
+It is based on a Reddit [post](https://www.reddit.com/r/apljk/comments/17b3lig/apl_math_books/) I made in October 2023. I have added books that use the J language and would for any other array language if I knew of any such books.
+
 I believe all of these are out of print. Where there is a PDF available online that appears to me to be legitimate (not a copyright infringement) I have linked to that. Additionally, where possible, I have linked to the Google Books page on the book, which in turn often links to sellers like Amazon.
 
 The references attempt to be in [AMA](https://owl.purdue.edu/owl/research_and_citation/ama_style/index.html) style, in alphabetic order by author, and then by title under a given author, with the additional prefix listing what language is used.
 
 I would very much welcome any additions or corrections. No need for a formal pull request unless you want to. Just send me a reference or correction.
 
-Thanks to Reddit users from [r/apljk](https://www.reddit.com/r/apljk/) *moon-chilled*, *Embarrassed_Ba*, *maa49*, and *cratylus* for some of these.
+Thanks to Reddit users from [r/apljk](https://www.reddit.com/r/apljk/) *moon-chilled*, *Embarrassed_Ba*, *maa49*, and *cratylus* for some of these. Much else comes from the J Wiki [Books](https://code.jsoftware.com/wiki/Books) page.
 
 
 The List
