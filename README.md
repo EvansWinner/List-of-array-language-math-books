@@ -28,16 +28,16 @@ The List
 - [APL] Iverson, KE. Elementary Algebra. IBM Corporation; 1971. [PDF](https://www.softwarepreservation.org/projects/apl/Papers/ElementaryAlgebra).
 - [APL] Iverson, KE. Elementary Analysis. APL Press; 1976. [Google Books](https://www.google.com/books/edition/Elementary_Analysis/WvcpAQAAMAAJ?hl=en&gbpv=0&bsq=Iverson,%20KE.%20Elementary%20Analysis.).
 - [APL] Iverson, KE. Elementary Functions: An Algorithmic Treatment. Science Research Associates, Inc; 1966. [PDF](https://www.jsoftware.com/papers/Elementary_Functions.pdf).
-- [J] Iverson, KE. Exploring Math. J Software; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
+- <img src="https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png?raw=true" width="12px" alt="J"/> Iverson, KE. Exploring Math. J Software; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
 - [APL] Iverson, KE. Mathematics and Programming. Pub unknown; 1986.
-- [J] Iverson, KE. Math for the Layman. J Software; Date unknown. [zipped HTML](http://www.jsoftware.com/books/pdf/mftl.zip).
+- <img src="https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png?raw=true" width="12px" alt="J"/> Iverson, KE. Math for the Layman. J Software; Date unknown. [zipped HTML](http://www.jsoftware.com/books/pdf/mftl.zip).
 - [APL] LeCuyer, EJ. Introduction to College Mathematics with A Programming Language. Springer-Verlag; 1961. [PDF](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL).
 - [APL] Musgrave, GL, Ramsey, JB. APL-STAT: A Do-It-Yourself Guide to Computational Statistics Using APL. Lifetime Learning Publications; 1981. [PDF](https://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf).
-- [J] Peelle, HA. Mathematical Computing in J. Research Studies; 2005. [Google Books](https://www.google.com/books/edition/Mathematical_Computing_in_J_Introduction/5tWzAAAACAAJ?hl=en).
+- <img src="https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png?raw=true" width="12px" alt="J"/> Peelle, HA. Mathematical Computing in J. Research Studies; 2005. [Google Books](https://www.google.com/books/edition/Mathematical_Computing_in_J_Introduction/5tWzAAAACAAJ?hl=en).
 - [APL] Orth, DL. Calculus in a new key. APL Press; 1976. [Google Books](https://www.google.com/books/edition/Calculus_in_a_New_Key/a43WAAAAMAAJ?hl=en).
 - [APL] Reiter, CA, Jones, WR. APL With a Mathematical Accent. Routledge; 1990. [Google Books](https://www.google.com/books/edition/APL_with_a_Mathematical_Accent/lJfnswEACAAJ?hl=en).
 - [APL] Sims, CC. Abstract Algebra: A Computational Approach. John Wiley & Sons; 1984. [Google Books](https://www.google.com/books/edition/Abstract_Algebra/5TlPAQAAIAAJ?hl=en&gbpv=0&bsq=%22Abstract%20Algebra:%20A%20Computational%20Approach%22).
-- [J] Reiter, CA. Fractals, Visualization and J, Fourth Ed., Part 1. Lulu.com; 2016. [Google Books](https://www.google.com/books/edition/Fractals_Visualization_and_J_Fourth_edit/Qs2kCwAAQBAJ?hl=en)
-- [J] Reiter, CA. Fractals, Visualization and J, Fourth Ed., Part 2. Lulu.com; 2016. [Google Books](https://www.google.com/books/edition/Fractals_Visualization_and_J_4th_edition/TUiUDgAAQBAJ?hl=en)
+- <img src="https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png?raw=true" width="12px" alt="J"/> Reiter, CA. Fractals, Visualization and J, Fourth Ed., Part 1. Lulu.com; 2016. [Google Books](https://www.google.com/books/edition/Fractals_Visualization_and_J_Fourth_edit/Qs2kCwAAQBAJ?hl=en)
+- <img src="https://github.com/EvansWinner/list-of-array-language-math-books/blob/master/J.png?raw=true" width="12px" alt="J"/> Reiter, CA. Fractals, Visualization and J, Fourth Ed., Part 2. Lulu.com; 2016. [Google Books](https://www.google.com/books/edition/Fractals_Visualization_and_J_4th_edition/TUiUDgAAQBAJ?hl=en)
 - [APL] Thompson, ND. APL Programs for the Mathematics Classroom. John Wiley & Sons; 1989. [Google Books](https://www.google.com/books/edition/APL_Programs_for_the_Mathematics_Classro/CwKFAAAAIAAJ?hl=en).
 
