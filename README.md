@@ -1,5 +1,5 @@
-
-========
+About
+=====
 
 This is a list of books that use array programming languages like APL or J to teach or explain subjects in mathematics. I compiled it because I wanted to.If I may editorialize, I think there should be more of these. I think such was much of Ken Iverson's purpose.
 
