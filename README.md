@@ -10,7 +10,7 @@ The references attempt to be in [AMA](https://owl.purdue.edu/owl/research_and_ci
 
 I would very much welcome any additions or corrections. No need for a formal pull request unless you want to. Just send me a reference or correction.
 
-Thanks to Reddit users from [r/apljk](https://www.reddit.com/r/apljk/) *moon-chilled*, *Embarrassed_Ba, *maa49*, and *cratylus* for some of these.
+Thanks to Reddit users from [r/apljk](https://www.reddit.com/r/apljk/) *moon-chilled*, *Embarrassed_Ba*, *maa49*, and *cratylus* for some of these.
 
 
 The List
