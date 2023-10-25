@@ -22,14 +22,14 @@ The List
 - [APL] Helzer, G. Applied Linear Algebra with APL. Springer New York; 1983. [Google Books](https://www.google.com/books/edition/Applied_Linear_Algebra_with_APL/EPkZAQAAIAAJ?hl=en&gbpv=0&bsq=Helzer,%20G.%20Applied%20Linear%20Algebra%20with%20APL.).
 - [APL] Iverson, KE. Algebra: An Algorithmic Treatment. APL Press; 1977. [PDF](http://www.jsoftware.com/books/pdf/algebra.pdf). [Google Books](https://www.google.com/books/edition/Algebra/rVorAAAAYAAJ?hl=en&gbpv=0&bsq=Iverson,%20KE.%20Algebra:%20An%20Algorithmic%20Treatment.)
 - [J] Iverson, KE. Arithmetic. J Software; Date unknown. [PDF](http://www.jsoftware.com/books/pdf/arithmetic.pdf). 
-- [APL] Iverson, KE. Applied Mathematics for Programmers. Unknown; 1984.
+- [APL] Iverson, KE. Applied Mathematics for Programmers. Pub unknown; 1984.
 - [J] Iverson, KE. Calculus. Iverson Software, Inc.; 1993. [PDF](http://www.jsoftware.com/books/pdf/calculus.pdf). [Google Books](https://www.google.com/books/edition/Calculus/TfylPwAACAAJ?hl=en).
-- [J] Iverson, KE. Concrete Math Companion. Unknown; 1995. [PDF](http://www.jsoftware.com/books/pdf/cmc.pdf). [Google Books](https://www.google.com/books/edition/Concrete_Math_Companion/xKfiAAAACAAJ?hl=en).
+- [J] Iverson, KE. Concrete Math Companion. Pub unknown; 1995. [PDF](http://www.jsoftware.com/books/pdf/cmc.pdf). [Google Books](https://www.google.com/books/edition/Concrete_Math_Companion/xKfiAAAACAAJ?hl=en).
 - [APL] Iverson, KE. Elementary Algebra. IBM Corporation; 1971. [PDF](https://www.softwarepreservation.org/projects/apl/Papers/ElementaryAlgebra).
 - [APL] Iverson, KE. Elementary Analysis. APL Press; 1976. [Google Books](https://www.google.com/books/edition/Elementary_Analysis/WvcpAQAAMAAJ?hl=en&gbpv=0&bsq=Iverson,%20KE.%20Elementary%20Analysis.).
 - [APL] Iverson, KE. Elementary Functions: An Algorithmic Treatment. Science Research Associates, Inc; 1966. [PDF](https://www.jsoftware.com/papers/Elementary_Functions.pdf).
 - [J] Iverson, KE. Exploring Math. J Software; 1996. [PDF](http://www.jsoftware.com/books/pdf/expmath.pdf). [Google Books](https://www.google.com/books/edition/Exploring_Math/R-dAtwAACAAJ?hl=en).
-- [APL] Iverson, KE. Mathematics and Programming. Unknown; 1986.
+- [APL] Iverson, KE. Mathematics and Programming. Pub unknown; 1986.
 - [J] Iverson, KE. Math for the Layman. Jsoftware; Date unknown. [zipped HTML](http://www.jsoftware.com/books/pdf/mftl.zip).
 - [APL] LeCuyer, EJ. Introduction to College Mathematics with A Programming Language. Springer-Verlag; 1961. [PDF](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL).
 - [APL] Musgrave, GL, Ramsey, JB. APL-STAT: A Do-It-Yourself Guide to Computational Statistics Using APL. Lifetime Learning Publications; 1981. [PDF](https://www.softwarepreservation.org/projects/apl/Books/198100_APL-STAT.pdf).
